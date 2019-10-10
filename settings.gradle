@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name='Android_Auto_Complete_Location'
